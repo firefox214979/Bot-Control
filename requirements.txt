@@ -1,0 +1,1 @@
+discord.net==3.2.1
